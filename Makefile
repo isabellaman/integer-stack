@@ -1,9 +1,9 @@
 #------------------------------------------------------------------------------
-# Makefile for IntegerListTest.c with macros
+# Makefile for IntegerStackTest.c
 #------------------------------------------------------------------------------
 
-CLIENT         = IntegerListTest
-ADT            = IntegerList
+CLIENT         = IntegerStackTest
+ADT            = IntegerStack
 SOURCE         = $(CLIENT).c
 OBJECT         = $(CLIENT).o
 ADT_SOURCE     = $(ADT).c
