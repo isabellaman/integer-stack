@@ -1,0 +1,17 @@
+/*
+ * Isabella Man
+ * 1602153
+ * CSE 15
+ * 11/7/19
+ * This file is a table of contents for lab3
+ */
+
+
+File list
+----------
+README
+Makefile
+IntegerStack.c		//implementation file
+IntegerStackTest.c	//simple test client. tests ADT and produces error messages when a client violates a precondition
+IntegerStack.h		//header file that contains all prototypes of public ADT operations
+
